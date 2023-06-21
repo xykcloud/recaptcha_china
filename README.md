@@ -6,3 +6,6 @@
 
 Header Editor插件主页：
 - https://github.com/FirefoxBar/HeaderEditor
+
+脚本地址：
+- https://raw.githubusercontent.com/xykcloud/recaptcha_china/master/headereditor.json
