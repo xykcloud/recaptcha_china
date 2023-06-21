@@ -4,7 +4,7 @@
 - 消除Google搜索的异常流量页面 (misc.json)
 - (其他，随时增加或删除)
 
-Header Editor插件主页：
+Header Editor插件主页（扩展市场一般都有）：
 - https://github.com/FirefoxBar/HeaderEditor
 
 脚本地址：
